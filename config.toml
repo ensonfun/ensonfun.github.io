@@ -5,3 +5,6 @@ theme = "PaperMod"
 [params.homeInfoParams]
 Title = "Hi, This is Enson's personal blog"
 Content = "I'm currently working at Tencent."
+[params]
+ShowReadingTime = true
+ShowPostNavLinks = true
