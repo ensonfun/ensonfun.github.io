@@ -2,3 +2,6 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'EnsonFun'
 theme = "PaperMod"
+[params.homeInfoParams]
+Title = "Hi, This is Enson's personal blog"
+Content = "I'm currently working at Tencent."
