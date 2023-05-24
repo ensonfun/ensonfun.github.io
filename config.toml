@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://ensonfun.github.io/'
 languageCode = 'en-us'
 title = 'EnsonFun'
 theme = "PaperMod"
@@ -8,3 +8,4 @@ Content = "I'm currently working at Tencent."
 [params]
 ShowReadingTime = true
 ShowPostNavLinks = true
+ShowToc = true
