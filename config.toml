@@ -9,3 +9,4 @@ Content = "I'm currently working at Tencent."
 ShowReadingTime = true
 ShowPostNavLinks = true
 ShowToc = true
+ShowRssButtonInSectionTermList = true
