@@ -1,6 +1,6 @@
 ---
 title: "如何做出优秀的工作 How To Do Great Work"
-date: 2023-07-18T16:01:03+08:06
+date: 2023-07-18T16:02:03+08:06
 draft: false
 tags:
   - paulgraham
