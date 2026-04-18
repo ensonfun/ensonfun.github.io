@@ -10,3 +10,9 @@ ShowReadingTime = true
 ShowPostNavLinks = true
 ShowToc = true
 ShowRssButtonInSectionTermList = true
+
+[[menu.main]]
+identifier = "weibo"
+name = "微博"
+url = "/tags/weibo/"
+weight = 20
